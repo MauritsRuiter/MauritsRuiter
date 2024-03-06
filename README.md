@@ -12,7 +12,3 @@
 - ⚡ Fun fact: I can type really fast.
 
 [![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&theme=github_dark_dimmed)](https://github.com/MauritsRuiter)
-
-# My favourite some atm.
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Vnx5i9VJSZ6ayfK6jncf8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
