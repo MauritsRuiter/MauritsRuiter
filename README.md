@@ -11,4 +11,4 @@
 
 
 
-[![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&layout=compact&theme=vue-dark)](https://github.com/MauritsRuiter)
+[![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&layout=compact&theme=vue)](https://github.com/MauritsRuiter)
