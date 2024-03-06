@@ -11,4 +11,4 @@
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I can type really fast.
 
-[![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&theme=vue)](https://github.com/MauritsRuiter)
+[![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&theme=midnight-purple)](https://github.com/MauritsRuiter)
