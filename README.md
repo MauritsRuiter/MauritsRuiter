@@ -13,5 +13,4 @@
 
 [![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&theme=github_dark_dimmed)](https://github.com/MauritsRuiter)
 [![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/gist/?username=MauritsRuiter&theme=github_dark_dimmed)](https://github.com/MauritsRuiter)
-[![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime/?username=MauritsRuiter&theme=github_dark_dimmed)](https://github.com/MauritsRuiter)
 [![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MauritsRuiter&theme=github_dark_dimmed)](https://github.com/MauritsRuiter)
