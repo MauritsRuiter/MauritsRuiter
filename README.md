@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **MauritsRuiter/MauritsRuiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-This is my github. I am Maurits.
-<br />
-[![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&layout=compact&theme=radical)](https://github.com/MauritsRuiter)
+
+
+[![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&layout=compact&theme=swift)](https://github.com/MauritsRuiter)
