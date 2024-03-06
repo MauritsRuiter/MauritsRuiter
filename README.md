@@ -1,6 +1,6 @@
-### Hi there 👋 
+# Hi there 👋 
 
-# I am Maurits Ruiter.
+### I am Maurits Ruiter.
 
 - 🔭 I’m currently working on being a better version of myself. 
 - 🌱 I’m currently learning how not to spend my life savings on food.
