@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on being a better version of myself. 
 - 🌱 I’m currently learning how not to spend my life savings on food.
 - 👯 I’m looking to collaborate on helping others.
-- 🤔 I’m looking for help with nothing.
 - 💬 Ask me about anything.
 - 📫 How to reach me: maurits.ruiter@gmail.com.
 - 😄 Pronouns: He / Him.
