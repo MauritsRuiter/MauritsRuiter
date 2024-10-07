@@ -14,15 +14,10 @@
 ````c
 from openai import OpenAI
 client = OpenAI()
-
 completion = client.chat.completions.create(
     model="gpt-4o-mini",
     messages=[
-        {"role": "system", "content": "You create suggestions with emoji's that a user can fill in."},
-        {
-            "role": "user",
-            "content": "Im Maurits Ruiter and would like to get some recommendations to give a visitor more information about me."
-        }
+        {"role": "user", "content": "I would like to get some recommendations to give a visitor more information about me."}
     ]
 )
 
