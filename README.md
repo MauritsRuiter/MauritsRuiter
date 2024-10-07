@@ -11,7 +11,7 @@
  💻 Coding **AI solutions**.<br>
  🌲 Love the dutch *nature* & *weather*.
 
-````
+````c
 from openai import OpenAI
 client = OpenAI()
 
