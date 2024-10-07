@@ -11,4 +11,20 @@
  💻 Coding **AI solutions**.<br>
  🌲 Love the dutch *nature* & *weather*.
 
+``from openai import OpenAI
+client = OpenAI()
+
+completion = client.chat.completions.create(
+    model="gpt-4o-mini",
+    messages=[
+        {"role": "system", "content": "You create suggestions with emoji's that a user can fill in."},
+        {
+            "role": "user",
+            "content": "Im Maurits Ruiter and would like to get some recommendations to give a visitor more information about me."
+        }
+    ]
+)
+
+print(completion.choices[0].message)``
+
 [![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&theme=github_dark_dimmed)](https://github.com/MauritsRuiter)
