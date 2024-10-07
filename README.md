@@ -9,7 +9,7 @@
  😄 Pronouns: **He / Him**.<br>
  ⚡ Fun fact: I can type pretty **fast**.<br>
  💻 Coding **AI solutions**.<br>
- 🌲 Love the dutch *nature* & *weather*.
+ 🍃 Love the dutch *nature* & *weather*.
 
 ````c
 from openai import OpenAI
