@@ -9,6 +9,6 @@
  😄 Pronouns: He / Him.<br>
  ⚡ Fun fact: I can type pretty fast.<br>
  💻 Coding AI solutions.<br>
- 🌲 Love nature and walks.
+ 🌲 Love the dutch nature & weather.
 
 [![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&theme=github_dark_dimmed)](https://github.com/MauritsRuiter)
