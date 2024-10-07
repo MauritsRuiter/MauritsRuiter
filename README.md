@@ -7,8 +7,8 @@
  💬 Ask me about anything.<br>
  📫 How to reach me: maurits.ruiter@gmail.com.<br>
  😄 Pronouns: He / Him.<br>
- ⚡ Fun fact: I can type pretty fast.
- 💻 Coding AI solutions.
+ ⚡ Fun fact: I can type pretty fast.<br>
+ 💻 Coding AI solutions.<br>
  🌲 Love nature and walks.
 
 [![languageStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauritsRuiter&theme=github_dark_dimmed)](https://github.com/MauritsRuiter)
